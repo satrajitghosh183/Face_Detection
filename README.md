@@ -63,4 +63,9 @@ That's it! With these simple steps, you can use the facial recognition system to
 ![image](https://user-images.githubusercontent.com/83156880/231350776-bcfc060e-e824-4b02-9d15-fff399c50682.png)
 
 
+Project Members 
+Satrajit Ghosh(satrajitghosh183)--Backend(Python,Flask)
+Subhramoy Biswas(Subhramoy9)--Frontend(React JS,CSS,HTML)
+Anubhab Paul(cypher-2000)-----Deployment(Flask)
+
 
