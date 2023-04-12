@@ -64,7 +64,7 @@ That's it! With these simple steps, you can use the facial recognition system to
 
 
 
-There is also a file called CrowdDetection.py which is for the purpose of counting footfall in crowded places 
+There is also a file called CrowdDetection.py which is for the purpose of counting footfall in crowded places.It is windows console application .We have future plans to make it a GUI
 
 ![image](https://user-images.githubusercontent.com/83156880/231373794-fde23869-941b-4db3-903a-143b2ec3fb45.png)
 
