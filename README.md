@@ -45,6 +45,8 @@ This will start the Flask server and you should see a message similar to the fol
 
 
 Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+![Screenshot 2023-04-12 095412](https://user-images.githubusercontent.com/83156880/231350046-87f4a987-0d62-44d2-a2cc-e62f9b7b7c02.png)
+
 
 Open your web browser and navigate to the local host address shown in the terminal message ( http://127.0.0.1:5000/.)
 
