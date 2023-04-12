@@ -64,6 +64,7 @@ That's it! With these simple steps, you can use the facial recognition system to
 
 
 Project Members 
+
 Satrajit Ghosh(satrajitghosh183)--Backend(Python,Flask)
 
 
