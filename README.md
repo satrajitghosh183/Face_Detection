@@ -57,5 +57,10 @@ If a face is detected, the facial landmarks will be extracted using MediaPipe an
 To stop the facial recognition system, click the "Stop" button.
 
 That's it! With these simple steps, you can use the facial recognition system to detect faces in real-time video streams, extract facial landmarks, and store them in a CSV file for future use. Note that you may need to modify the code to suit your specific needs, such as changing the parameters for face detection or facial landmark extraction
+![image](https://user-images.githubusercontent.com/83156880/231350664-9cc62ad3-12c4-4963-ade5-45cde934568f.png)
+![image](https://user-images.githubusercontent.com/83156880/231350728-78cc7b73-a2ff-4974-8210-08203a41838d.png)
+![image](https://user-images.githubusercontent.com/83156880/231350710-788f5695-4512-496a-8fb6-3d386b7a2c3a.png)
+![image](https://user-images.githubusercontent.com/83156880/231350776-bcfc060e-e824-4b02-9d15-fff399c50682.png)
+
 
 
