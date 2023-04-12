@@ -65,7 +65,11 @@ That's it! With these simple steps, you can use the facial recognition system to
 
 Project Members 
 Satrajit Ghosh(satrajitghosh183)--Backend(Python,Flask)
-Subhramoy Biswas(Subhramoy9)--Frontend(React JS,CSS,HTML)
+
+
+Subhramoy Biswas(Subhramoy9)--Frontend(React JS,CSS,HTML,Flask)
+
+
 Anubhab Paul(cypher-2000)-----Deployment(Flask)
 
 
