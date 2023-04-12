@@ -1,0 +1,24 @@
+Recently I started to get requests through multiple means asking about the implementation details of my Online Object Detector. This post is composed to address these questions.
+
+Setting up the whole engineering pipeline includes many steps full of caveats that took me some time to work around. However, I am not going to cover how detection or YOLO works, how to implement YOLO in PyTorch, or how to train a deep learning model. Nowadays, there are plenty of high-quality resources online which you can refer to.
+
+A disclosure: I never had proper training in web dev, not even an online course. I had an overall idea of how this project should work eventually and just did some googling here and there.
+
+Despite this post describing a pipeline for an object detector, the approach can be adapted for other applications where you need to send user data from, e.g., GitHub Pages (front-end), to the server, process it there (back-end), and send a result back to the user.
+
+I developed this project in 2019, ever since I saw a couple of other wonderful solutions with similar functionality. Namely, in-browser detection with YOLO tiny written in TF.js that runs without a back-end. Also, there is a cool iPhone app, iDetection from well-known Ultralytics.
+
+Why didn't you go with front-end only (TF.js)? Well, mostly because either a user would need to download weights (~250MB) before uploading an image or you have to reduce model capacity. However, downloading ~250MB could be prohibitively slow in some regions on Earth while using a smaller model also worsens the performance. Therefore, I think running a model on a back-end delivers a better user experience.
+
+Here is a plan for this post as well as the outline of the whole project pipeline:
+
+1. Front-end
+2. Back-end
+Flask App Code
+Instance Configuration
+Instance Setup Instructions
+3. Assigning a Domain Name to the Instance
+Getting a Domain Name
+Registering the Domain Name in a DNS
+Securing our Connection with an SSL Certificate
+4. Running the Detector
