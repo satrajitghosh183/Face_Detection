@@ -63,6 +63,12 @@ That's it! With these simple steps, you can use the facial recognition system to
 ![image](https://user-images.githubusercontent.com/83156880/231350776-bcfc060e-e824-4b02-9d15-fff399c50682.png)
 
 
+
+There is also a file called CrowdDetection.py which is for the purpose of counting footfall in crowded places 
+
+![image](https://user-images.githubusercontent.com/83156880/231373794-fde23869-941b-4db3-903a-143b2ec3fb45.png)
+
+
 Project Members 
 
 Satrajit Ghosh(satrajitghosh183)--Backend(Python,Flask)
