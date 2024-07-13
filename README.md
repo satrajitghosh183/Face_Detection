@@ -14,7 +14,7 @@ In this project, we will focus on building a facial recognition system that is a
 
 
 ## What we used 
-Sure! Here's a detailed explanation of the components used in the facial recognition system built using OpenCV, MediaPipe, and Flask:
+
 
 OpenCV: OpenCV is an open-source computer vision library that provides a wide range of image and video processing algorithms. In this project, we will use OpenCV to capture real-time video streams and detect faces within those streams. OpenCV provides various algorithms for face detection, such as Haar Cascades, which can detect the presence of a face in an image by analyzing features such as edges, lines, and corners.
 
