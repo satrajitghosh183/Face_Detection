@@ -1,5 +1,5 @@
 
-#Title: Facial Recognition using OpenCV, MediaPipe and Flask
+# Facial Recognition using OpenCV, MediaPipe, and Flask
 
 
 Introduction:
