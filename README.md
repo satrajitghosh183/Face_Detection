@@ -1,6 +1,6 @@
 
-# Project Title
-Title: Facial Recognition using OpenCV, MediaPipe and Flask
+#Title: Facial Recognition using OpenCV, MediaPipe and Flask
+
 
 Introduction:
 
